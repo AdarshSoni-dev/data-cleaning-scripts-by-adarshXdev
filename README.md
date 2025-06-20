@@ -31,7 +31,7 @@ This project shows how I take messy CSV data and turn it into clean, useful, and
 ![Watch Time Trend](plots/watch_time_trend.png)
 
 > A clear visual of how much time was spent watching Netflix day by day.  
-> Business-ready. AI-ready. Ujjwal-approved. 😎
+> Business-ready. AI-ready. Adarsh-approved. 😎
 
 ---
 
